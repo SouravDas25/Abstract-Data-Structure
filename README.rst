@@ -38,20 +38,13 @@ New Style Output Formatting ::
 * Limited OOP concepts
 * And Many More
 
-You Can View The Entire Documentation At 
-----------------------------------------
-   <http://dasemporium.esy.es/ads-documentation/modules.html>
-
-You Can Download The Compiled Library at
-------------------------------------------
-   <http://dasemporium.esy.es/downloads/ads.zip>
 
 Installation 
 -------------
 * Step 1: Download the library.
 * Step 2: extract it.
-* Step 3: copy the libads.a,libads32.a file to lib folder inside any c compiler folder.
-* Step 4: copy the ADS folder to the include folder inside that c compiler folder.
+* Step 3: Open the libads.cpb with code blocks.
+* Step 4: built the project in your system and the library is ready.
 * Step 5: start using the library.
 
 
