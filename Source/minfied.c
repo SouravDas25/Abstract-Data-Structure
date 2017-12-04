@@ -1,0 +1,10 @@
+
+#include "collection\IString.h"
+#include "collection\utility\timeit.c"
+int main()
+{set_time_checkpoint();string s = double_tostring(10.20,3,10);string s1 = newstring("Sourav Das %d",10);string s5 = newstring("Go Baby");char tmp[string_len(s1)+1];cstring(s1,tmp);ads_output("cstring of string s1(%s) = %s\n\n",__getcstring(s1),tmp);int size = string_sizeof(s1);ads_output("sizeof string s1(%s) = %d bytes \n\n",__getcstring(s1),size);string_setslice_cstring(s1,7,9,"BAD");ads_output("string_setslice of s1(%s) at 7 to 9 with BAD  = %s\n\n",tmp,__getcstring(s1));int count = cstring_count_cstring("ac ab ab av ab ac ba bd ab","ab ac");int index = cstring_find_cstring("ac ab ab av ab ac ba bd ab","ab ac");ads_output("'ab ac' present in csting(%s) is %d time at index %d\n\n","ac ab ab av ab ac ba bd ab",count,index);bool b = cstring_isdouble("45.3");ads_output("cstring_isdouble works 45.5 isdouble ? = %s\n\n",bool2cstring(b));b = cstring_isinteger("453");ads_output("cstring_isinteger works 453 isinteger ? = %s\n\n",bool2cstring(b));cstring_replace_cstring(s1,"BAD","DAS");ads_output("Replacing 'BAD' with 'DAS' in %s\n\n",tmp);string_muliplier(s1,3);ads_output("muliplying s1(%s) with 3 = %s\n\n",tmp,__getcstring(s1));ads_output("time = %s\n","25/10/16 11:20:48");list l = cstring_split_cstring("25/10/16 11:20:48","/: ");printlist(l,printstring);LB;foreach(i,list_iterator(l),string)
+{int ff = string_tolong(i,10) * 2 ;string_set_cstring(i,"%d",ff);}next(i);/\nEnter anything You Like :
+/
+foreach(ch,string_iterator(s5),char)
+{ads_output("'%c' ",ch);}next(ch);printstring(s);LB;LB;LB;printlist(l,printstring);LB;string s2 = cstring_join(l,":");LB;printstring(s2);LB;ads_output("C_S2Dbl = {%lf} time = %ld millisec \n",cstring_todouble("10256635500536953.35522222",10),get_time_msec());/
+delete(l,s2,s,s1,s5);Garbagecheck();system("pause");return 0;}
