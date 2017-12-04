@@ -1,0 +1,15 @@
+
+
+div.line,.line {
+    line-height: normal;
+    margin:10px;
+}
+
+div.keywordtype,.keywordtype {
+    color:blue;
+    text-decoration:bold;
+}
+
+div.code,.code {
+    text-decoration:bold;
+}

@@ -1,0 +1,12 @@
+28 November 2017
+   released version 1.41.119 of libads
+
+     Change log:
+        -Removed: Database Removed and moved to a different project
+
+22 July 2017
+   released version 1.0.1 of libads
+
+     Change log:
+        -Cleaned: GetItem Dsnt return a copied item anymore , getitem Copy does
+

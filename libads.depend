@@ -1,0 +1,2214 @@
+# depslib dependency file v1.0
+1486746143 source:f:\college notes\cpp\ds lib\source\ads\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"vector.h"
+	"Avl.h"
+
+1486825832 f:\college notes\cpp\ds lib\source\ads\utility.h
+	"utility\compiler_info.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"utility\error.h"
+	"utility\datareplicator.h"
+	"utility\gc.h"
+	"utility\iterator.h"
+	"utility\defaultargs.h"
+	"utility\object.h"
+	"utility\Types.h"
+	"io\lnlist.h"
+	"io\stdout.h"
+
+1486740388 f:\college notes\cpp\ds lib\source\ads\utility\compiler_info.h
+
+1486825838 f:\college notes\cpp\ds lib\source\ads\utility\error.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1486825853 f:\college notes\cpp\ds lib\source\ads\utility\datareplicator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"Error.h"
+	"gc.h"
+	"object.h"
+
+1486825934 f:\college notes\cpp\ds lib\source\ads\utility\gc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"Error.h"
+	"object.h"
+
+1486746119 f:\college notes\cpp\ds lib\source\ads\utility\object.h
+	"GC.h"
+	"Types.h"
+
+1486825931 f:\college notes\cpp\ds lib\source\ads\utility\types.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1486825933 f:\college notes\cpp\ds lib\source\ads\utility\iterator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"datareplicator.h"
+
+1474129192 f:\college notes\cpp\ds lib\source\ads\utility\defaultargs.h
+
+1486825949 f:\college notes\cpp\ds lib\source\ads\io\lnlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1486316941 f:\college notes\cpp\ds lib\source\ads\io\stdout.h
+	"adsprintf.h"
+
+1486827279 f:\college notes\cpp\ds lib\source\ads\io\adsprintf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"lnlist.h"
+	"common.h"
+	"gpf.h"
+
+1486637976 f:\college notes\cpp\ds lib\source\ads\io\common.h
+	<stdbool.h>
+
+1486825950 f:\college notes\cpp\ds lib\source\ads\io\gpf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+
+1486487836 f:\college notes\cpp\ds lib\source\ads\vector.h
+	"utility.h"
+
+1486825873 f:\college notes\cpp\ds lib\source\ads\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"vector.h"
+
+1486742101 source:f:\college notes\cpp\ds lib\source\ads\deque.c
+	"utility.h"
+	"list.h"
+	"Deque.h"
+
+1486825902 f:\college notes\cpp\ds lib\source\ads\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1486463923 f:\college notes\cpp\ds lib\source\ads\deque.h
+	"utility.h"
+	"list.h"
+
+1486825966 source:f:\college notes\cpp\ds lib\source\ads\dict.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"vector.h"
+	"list.h"
+	"dict.h"
+
+1486825850 f:\college notes\cpp\ds lib\source\ads\dict.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"vector.h"
+	"list.h"
+
+1486742142 source:f:\college notes\cpp\ds lib\source\ads\extrie.c
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"str.h"
+	"trie.h"
+	"extrie.h"
+
+1486825899 f:\college notes\cpp\ds lib\source\ads\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1486747261 f:\college notes\cpp\ds lib\source\ads\str.h
+	"utility.h"
+	"vector.h"
+	"stringpool.h"
+
+1486743293 f:\college notes\cpp\ds lib\source\ads\stringpool.h
+	"utility.h"
+
+1486646552 f:\college notes\cpp\ds lib\source\ads\trie.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+
+1486488231 f:\college notes\cpp\ds lib\source\ads\extrie.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"str.h"
+	"trie.h"
+
+1486742534 source:f:\college notes\cpp\ds lib\source\ads\heap.c
+	"utility.h"
+	"list.h"
+	"heap.h"
+
+1486825873 f:\college notes\cpp\ds lib\source\ads\heap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"list.h"
+
+1486739963 source:f:\college notes\cpp\ds lib\source\ads\integer.c
+	"utility.h"
+	<math.h>
+	"integer.h"
+
+1474171469 f:\college notes\cpp\ds lib\source\ads\integer.h
+	"utility.h"
+	<math.h>
+
+1486828639 source:f:\college notes\cpp\ds lib\source\ads\io\adsprintf.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"../utility.h"
+	"lnlist.h"
+	"gpf.h"
+	"common.h"
+	"adsprintf.h"
+
+1486825976 source:f:\college notes\cpp\ds lib\source\ads\io\common.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"../utility.h"
+
+1486743355 source:f:\college notes\cpp\ds lib\source\ads\io\gpf.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"../utility.h"
+	"gpf.h"
+
+1486639658 source:f:\college notes\cpp\ds lib\source\ads\io\lnlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../utility.h"
+	"lnlist.h"
+
+1486637863 source:f:\college notes\cpp\ds lib\source\ads\io\stdout.c
+	"adsprintf.h"
+
+1486644021 source:f:\college notes\cpp\ds lib\source\ads\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"list.h"
+
+1486825984 source:f:\college notes\cpp\ds lib\source\ads\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"queue.h"
+
+1486825901 f:\college notes\cpp\ds lib\source\ads\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1486639911 source:f:\college notes\cpp\ds lib\source\ads\set.c
+	"utility.h"
+	"list.h"
+	"set.h"
+
+1486488260 f:\college notes\cpp\ds lib\source\ads\set.h
+	"utility.h"
+	"list.h"
+
+1486639916 source:f:\college notes\cpp\ds lib\source\ads\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"stack.h"
+
+1486828752 source:f:\college notes\cpp\ds lib\source\ads\str.c
+	"utility.h"
+	"vector.h"
+	"stringpool.h"
+	"str.h"
+
+1486645840 source:f:\college notes\cpp\ds lib\source\ads\stringpool.c
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"dict.h"
+	"Stringpool.h"
+
+1486747468 source:f:\college notes\cpp\ds lib\source\ads\tree.c
+	"utility.h"
+	"list.h"
+	"str.h"
+	"vector.h"
+	"tree.h"
+
+1486468402 f:\college notes\cpp\ds lib\source\ads\tree.h
+	"utility.h"
+	"list.h"
+	"str.h"
+	"list.h"
+
+1486742691 source:f:\college notes\cpp\ds lib\source\ads\trie.c
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"trie.h"
+
+1486740058 source:f:\college notes\cpp\ds lib\source\ads\tuple.c
+	"utility.h"
+	"tuple.h"
+
+1486488297 f:\college notes\cpp\ds lib\source\ads\tuple.h
+	"utility.h"
+
+1486828781 source:f:\college notes\cpp\ds lib\source\ads\utility.c
+	<stdio.h>
+	"utility.h"
+	"utility\error.h"
+	"utility\datareplicator.h"
+	"utility\gc.h"
+	"utility\iterator.h"
+	"utility\defaultargs.h"
+	"utility\object.h"
+	"utility\Types.h"
+	"io\lnlist.h"
+	"io\stdout.h"
+
+1486642115 source:f:\college notes\cpp\ds lib\source\ads\utility\datareplicator.c
+	"Error.h"
+	"gc.h"
+	"object.h"
+	"datareplicator.h"
+
+1486824076 source:f:\college notes\cpp\ds lib\source\ads\utility\error.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"error.h"
+
+1486744914 source:f:\college notes\cpp\ds lib\source\ads\utility\gc.c
+	"GC.h"
+	"Error.h"
+	"object.h"
+
+1471927573 source:f:\college notes\cpp\ds lib\source\ads\utility\io.c
+
+1486637911 source:f:\college notes\cpp\ds lib\source\ads\utility\iterator.c
+	"datareplicator.h"
+	"iterator.h"
+
+1486825998 source:f:\college notes\cpp\ds lib\source\ads\utility\object.c
+	<assert.h>
+	"GC.h"
+	"Types.h"
+	"object.h"
+
+1486826053 source:f:\college notes\cpp\ds lib\source\ads\utility\timeit.c
+	<stdio.h>
+	<stdint.h>
+	<time.h>
+
+1485454107 source:f:\college notes\cpp\ds lib\source\ads\utility\types.c
+	"Types.h"
+
+1486642264 source:f:\college notes\cpp\ds lib\source\ads\vector.c
+	"utility.h"
+	"vector.h"
+
+1489162103 source:e:\old desktop\college notes\cpp\ds lib\source\ads\integer.c
+	"utility.h"
+	<math.h>
+	"integer.h"
+
+1491400082 e:\old desktop\college notes\cpp\ds lib\source\ads\utility.h
+	"utility\compiler_info.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"utility\error.h"
+	"utility\datareplicator.h"
+	"utility\gc.h"
+	"utility\iterator.h"
+	"utility\defaultargs.h"
+	"utility\object.h"
+	"utility\Types.h"
+	"utility\c_str.h"
+	"utility\ads_stream.h"
+	"io\lnlist.h"
+	"io\stdout.h"
+
+1489236602 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\compiler_info.h
+
+1489162640 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\error.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1491400697 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\datareplicator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"Error.h"
+	"gc.h"
+	"object.h"
+
+1491211402 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\gc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"Error.h"
+	"object.h"
+
+1491382976 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\object.h
+	"GC.h"
+	"Types.h"
+
+1487778367 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\types.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1491307367 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\iterator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"datareplicator.h"
+
+1474129192 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\defaultargs.h
+
+1491400580 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\c_str.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"ads_stream.h"
+	"datareplicator.h"
+
+1491381954 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\ads_stream.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+
+1488612186 e:\old desktop\college notes\cpp\ds lib\source\ads\io\lnlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1486316941 e:\old desktop\college notes\cpp\ds lib\source\ads\io\stdout.h
+	"adsprintf.h"
+
+1488909467 e:\old desktop\college notes\cpp\ds lib\source\ads\io\adsprintf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"lnlist.h"
+	"common.h"
+	"gpf.h"
+
+1488568027 e:\old desktop\college notes\cpp\ds lib\source\ads\io\common.h
+	<stdbool.h>
+
+1491219256 e:\old desktop\college notes\cpp\ds lib\source\ads\io\gpf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+
+1488816108 e:\old desktop\college notes\cpp\ds lib\source\ads\integer.h
+	"utility.h"
+	<math.h>
+
+1488461035 source:e:\old desktop\college notes\cpp\ds lib\source\ads\io\common.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"../utility.h"
+
+1489161962 source:e:\old desktop\college notes\cpp\ds lib\source\ads\io\lnlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../utility.h"
+	"lnlist.h"
+
+1487573578 source:e:\old desktop\college notes\cpp\ds lib\source\ads\io\stdout.c
+	"adsprintf.h"
+
+1471927573 source:e:\old desktop\college notes\cpp\ds lib\source\ads\utility\io.c
+
+1488619162 source:e:\old desktop\college notes\cpp\ds lib\source\ads\utility\iterator.c
+	"datareplicator.h"
+	"iterator.h"
+
+1488442634 source:e:\old desktop\college notes\cpp\ds lib\source\ads\utility\object.c
+	<assert.h>
+	"GC.h"
+	"Types.h"
+	"object.h"
+
+1487573531 source:e:\old desktop\college notes\cpp\ds lib\source\ads\utility\timeit.c
+	<stdio.h>
+	<stdint.h>
+	<time.h>
+	"timeit.h"
+
+1487567853 e:\old desktop\college notes\cpp\ds lib\source\ads\utility\timeit.h
+	<stdint.h>
+	<time.h>
+
+1487573528 source:e:\old desktop\college notes\cpp\ds lib\source\ads\utility\types.c
+	"Types.h"
+
+1492153522 source:e:\old desktop\projects\abstract-data-structure\source\ads\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"vector.h"
+	"Avl.h"
+
+1492717093 e:\old desktop\projects\abstract-data-structure\source\ads\utility.h
+	"utility\compiler_info.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"utility\error.h"
+	"utility\datareplicator.h"
+	"utility\gc.h"
+	"utility\iterator.h"
+	"utility\defaultargs.h"
+	"utility\object.h"
+	"utility\Types.h"
+	"utility\c_str.h"
+	"utility\ads_stream.h"
+	"io\lnlist.h"
+	"io\stdout.h"
+
+1491401251 e:\old desktop\projects\abstract-data-structure\source\ads\utility\compiler_info.h
+
+1492158488 e:\old desktop\projects\abstract-data-structure\source\ads\utility\error.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1492520098 e:\old desktop\projects\abstract-data-structure\source\ads\utility\datareplicator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"Error.h"
+	"gc.h"
+	"object.h"
+
+1492158498 e:\old desktop\projects\abstract-data-structure\source\ads\utility\gc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"Error.h"
+	"object.h"
+
+1492091854 e:\old desktop\projects\abstract-data-structure\source\ads\utility\object.h
+	"GC.h"
+	"Types.h"
+
+1492158503 e:\old desktop\projects\abstract-data-structure\source\ads\utility\types.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1492158506 e:\old desktop\projects\abstract-data-structure\source\ads\utility\iterator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"datareplicator.h"
+
+1474129192 e:\old desktop\projects\abstract-data-structure\source\ads\utility\defaultargs.h
+
+1492158510 e:\old desktop\projects\abstract-data-structure\source\ads\utility\c_str.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"ads_stream.h"
+	"datareplicator.h"
+
+1492158513 e:\old desktop\projects\abstract-data-structure\source\ads\utility\ads_stream.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+
+1492158517 e:\old desktop\projects\abstract-data-structure\source\ads\io\lnlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1486316941 e:\old desktop\projects\abstract-data-structure\source\ads\io\stdout.h
+	"adsprintf.h"
+
+1492158521 e:\old desktop\projects\abstract-data-structure\source\ads\io\adsprintf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"lnlist.h"
+	"common.h"
+	"gpf.h"
+
+1492091854 e:\old desktop\projects\abstract-data-structure\source\ads\io\common.h
+	<stdbool.h>
+
+1492717822 e:\old desktop\projects\abstract-data-structure\source\ads\io\gpf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"typecode.h"
+
+1492338554 e:\old desktop\projects\abstract-data-structure\source\ads\io\typecode.h
+
+1495465857 e:\old desktop\projects\abstract-data-structure\source\ads\vector.h
+	"utility.h"
+
+1492158532 e:\old desktop\projects\abstract-data-structure\source\ads\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"vector.h"
+
+1498068761 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\database.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	"dataBase.h"
+	"files.h"
+	"table.h"
+	"pairs.h"
+	"strings.h"
+	"type2file.h"
+	"../Avl.h"
+
+1497784730 e:\old desktop\projects\abstract-data-structure\source\ads\database\database.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	"db_tuple.h"
+	"files.h"
+	"table.h"
+	"pairs.h"
+	"strings.h"
+	"sdbdefs.h"
+	"parser.h"
+	"../Avl.h"
+
+1498119686 e:\old desktop\projects\abstract-data-structure\source\ads\database\db_tuple.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<stdarg.h>
+	"../utility.h"
+
+1492369386 e:\old desktop\projects\abstract-data-structure\source\ads\database\files.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	"sdbdefs.h"
+	"type2file.h"
+
+1497784934 e:\old desktop\projects\abstract-data-structure\source\ads\database\sdbdefs.h
+	"db_tuple.h"
+
+1498144135 e:\old desktop\projects\abstract-data-structure\source\ads\database\type2file.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	"strings.h"
+	"..\Tuple.h"
+	"..\str.h"
+	"db_tuple.h"
+
+1497957535 e:\old desktop\projects\abstract-data-structure\source\ads\database\strings.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	"sdbdefs.h"
+	"../Avl.h"
+
+1496851226 e:\old desktop\projects\abstract-data-structure\source\ads\tuple.h
+	"utility.h"
+
+1492526279 e:\old desktop\projects\abstract-data-structure\source\ads\str.h
+	"utility.h"
+	"vector.h"
+	"stringpool.h"
+
+1488816062 e:\old desktop\projects\abstract-data-structure\source\ads\stringpool.h
+	"utility.h"
+
+1498129884 e:\old desktop\projects\abstract-data-structure\source\ads\database\table.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	"dataBase.h"
+	"parser.h"
+	"sdbdefs.h"
+	"db_tuple.h"
+	"type2file.h"
+	"files.h"
+	"../Avl.h"
+	"../list.h"
+
+1497775122 e:\old desktop\projects\abstract-data-structure\source\ads\database\parser.h
+	"../utility.h"
+	"db_tuple.h"
+	"sdbdefs.h"
+	"../str.h"
+
+1492158535 e:\old desktop\projects\abstract-data-structure\source\ads\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1497873336 e:\old desktop\projects\abstract-data-structure\source\ads\database\pairs.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	"dataBase.h"
+	"parser.h"
+	"sdbdefs.h"
+	"db_tuple.h"
+	"type2file.h"
+
+1492369485 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\files.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	"files.h"
+	"type2file.h"
+
+1498144294 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\pairs.c
+	"pairs.h"
+
+1498065386 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	"dataBase.h"
+	"files.h"
+	"strings.h"
+	"../Avl.h"
+
+1498243008 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\table.c
+	"table.h"
+
+1498145723 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\type2file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	"type2file.h"
+	"strings.h"
+	"..\Tuple.h"
+	"..\io\formatter.h"
+
+1492338340 e:\old desktop\projects\abstract-data-structure\source\ads\io\formatter.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"common.h"
+
+1492153646 source:e:\old desktop\projects\abstract-data-structure\source\ads\deque.c
+	"utility.h"
+	"list.h"
+	"Deque.h"
+
+1492153701 e:\old desktop\projects\abstract-data-structure\source\ads\deque.h
+	"utility.h"
+	"list.h"
+
+1492158538 source:e:\old desktop\projects\abstract-data-structure\source\ads\dict.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"vector.h"
+	"list.h"
+	"dict.h"
+
+1492158545 e:\old desktop\projects\abstract-data-structure\source\ads\dict.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"vector.h"
+	"list.h"
+
+1492532257 source:e:\old desktop\projects\abstract-data-structure\source\ads\extrie.c
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"str.h"
+	"trie.h"
+	"extrie.h"
+
+1492158553 e:\old desktop\projects\abstract-data-structure\source\ads\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1491395919 e:\old desktop\projects\abstract-data-structure\source\ads\trie.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+
+1492532281 e:\old desktop\projects\abstract-data-structure\source\ads\extrie.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"str.h"
+	"trie.h"
+
+1492154112 source:e:\old desktop\projects\abstract-data-structure\source\ads\heap.c
+	"utility.h"
+	"list.h"
+	"heap.h"
+
+1492158557 e:\old desktop\projects\abstract-data-structure\source\ads\heap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"list.h"
+
+1492717833 source:e:\old desktop\projects\abstract-data-structure\source\ads\io\adsprintf.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"../utility.h"
+	"lnlist.h"
+	"gpf.h"
+	"common.h"
+	"adsprintf.h"
+
+1492158562 source:e:\old desktop\projects\abstract-data-structure\source\ads\io\common.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"../utility.h"
+
+1492359860 source:e:\old desktop\projects\abstract-data-structure\source\ads\io\formatter.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"typecode.h"
+	"common.h"
+	"../utility.h"
+	"lnlist.h"
+	"formatter.h"
+
+1492717848 source:e:\old desktop\projects\abstract-data-structure\source\ads\io\gpf.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"../utility.h"
+	"gpf.h"
+
+1489161962 source:e:\old desktop\projects\abstract-data-structure\source\ads\io\lnlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../utility.h"
+	"lnlist.h"
+
+1487573578 source:e:\old desktop\projects\abstract-data-structure\source\ads\io\stdout.c
+	"adsprintf.h"
+
+1499815456 source:e:\old desktop\projects\abstract-data-structure\source\ads\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"list.h"
+
+1498151643 source:e:\old desktop\projects\abstract-data-structure\source\ads\marshal.c
+	"marshal.h"
+
+1497784777 e:\old desktop\projects\abstract-data-structure\source\ads\marshal.h
+	"database/dataBase.h"
+	"database/parser.h"
+
+1492158566 source:e:\old desktop\projects\abstract-data-structure\source\ads\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"queue.h"
+
+1492158569 e:\old desktop\projects\abstract-data-structure\source\ads\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1492154288 source:e:\old desktop\projects\abstract-data-structure\source\ads\set.c
+	"utility.h"
+	"list.h"
+	"set.h"
+
+1492154303 e:\old desktop\projects\abstract-data-structure\source\ads\set.h
+	"utility.h"
+	"list.h"
+
+1492154351 source:e:\old desktop\projects\abstract-data-structure\source\ads\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"stack.h"
+
+1497680270 source:e:\old desktop\projects\abstract-data-structure\source\ads\str.c
+	"utility.h"
+	"vector.h"
+	"stringpool.h"
+	"str.h"
+
+1492105957 source:e:\old desktop\projects\abstract-data-structure\source\ads\stringpool.c
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"dict.h"
+	"Stringpool.h"
+
+1491395873 source:e:\old desktop\projects\abstract-data-structure\source\ads\trie.c
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"trie.h"
+
+1496857170 source:e:\old desktop\projects\abstract-data-structure\source\ads\tuple.c
+	"utility.h"
+	"tuple.h"
+
+1492092332 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility.c
+	<stdio.h>
+	"utility.h"
+	"utility\error.h"
+	"utility\datareplicator.h"
+	"utility\gc.h"
+	"utility\iterator.h"
+	"utility\defaultargs.h"
+	"utility\object.h"
+	"utility\Types.h"
+	"utility\c_str.h"
+	"utility\ads_stream.h"
+	"io\lnlist.h"
+	"io\stdout.h"
+
+1491381975 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\ads_stream.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"ads_stream.h"
+
+1497987638 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\c_str.c
+	"c_str.h"
+
+1492520129 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\datareplicator.c
+	"Error.h"
+	"gc.h"
+	"object.h"
+	"datareplicator.h"
+
+1491405571 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\error.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"error.h"
+
+1498059786 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\gc.c
+	"GC.h"
+	"Error.h"
+	"object.h"
+
+1471927573 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\io.c
+
+1488619162 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\iterator.c
+	"datareplicator.h"
+	"iterator.h"
+
+1492158579 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\object.c
+	<assert.h>
+	"GC.h"
+	"Types.h"
+	"object.h"
+
+1487573531 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\timeit.c
+	<stdio.h>
+	<stdint.h>
+	<time.h>
+	"timeit.h"
+
+1492158582 e:\old desktop\projects\abstract-data-structure\source\ads\utility\timeit.h
+	<stdint.h>
+	<time.h>
+
+1487573528 source:e:\old desktop\projects\abstract-data-structure\source\ads\utility\types.c
+	"Types.h"
+
+1497875103 source:e:\old desktop\projects\abstract-data-structure\source\ads\vector.c
+	"utility.h"
+	"vector.h"
+
+1498118122 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\db_tuple.c
+	"db_tuple.h"
+
+1498062096 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\sdbdefs.c
+	"sdbdefs.h"
+
+1498118137 source:e:\old desktop\projects\abstract-data-structure\source\ads\database\parser.c
+	"parser.h"
+
+1500766837 source:e:\old desktop\projects\abstract-data-structure\source\__mainvector__.c
+	"../Ads/include/vector.h"
+
+1500766728 source:e:\old desktop\projects\abstract-data-structure\source\__maintuple__.c
+	<stdio.h>
+	<stdlib.h>
+	"../Ads/include/tuple.h"
+
+1501523959 source:e:\old desktop\projects\abstract-data-structure\ads\src\avl.c
+	"../include/Avl.h"
+
+1501524417 e:\old desktop\projects\abstract-data-structure\ads\include\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"vector.h"
+
+1500650097 e:\old desktop\projects\abstract-data-structure\ads\include\utility.h
+	"utility\compiler_info.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"utility\error.h"
+	"utility\datareplicator.h"
+	"utility\gc.h"
+	"utility\iterator.h"
+	"utility\defaultargs.h"
+	"utility\object.h"
+	"utility\Types.h"
+	"utility\c_str.h"
+	"utility\ads_stream.h"
+	"io\lnlist.h"
+	"io\stdout.h"
+
+1491401251 e:\old desktop\projects\abstract-data-structure\ads\include\utility\compiler_info.h
+
+1511859228 e:\old desktop\projects\abstract-data-structure\ads\include\utility\error.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1500655879 e:\old desktop\projects\abstract-data-structure\ads\include\utility\datareplicator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"Error.h"
+	"gc.h"
+	"object.h"
+
+1500593716 e:\old desktop\projects\abstract-data-structure\ads\include\utility\gc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"Error.h"
+	"object.h"
+
+1500753998 e:\old desktop\projects\abstract-data-structure\ads\include\utility\object.h
+	"GC.h"
+	"Types.h"
+
+1492158503 e:\old desktop\projects\abstract-data-structure\ads\include\utility\types.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1501519051 e:\old desktop\projects\abstract-data-structure\ads\include\utility\iterator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"datareplicator.h"
+
+1474129192 e:\old desktop\projects\abstract-data-structure\ads\include\utility\defaultargs.h
+
+1492158510 e:\old desktop\projects\abstract-data-structure\ads\include\utility\c_str.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"ads_stream.h"
+	"datareplicator.h"
+
+1492158513 e:\old desktop\projects\abstract-data-structure\ads\include\utility\ads_stream.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+
+1500751499 e:\old desktop\projects\abstract-data-structure\ads\include\io\lnlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../utility/error.h"
+	"../utility/gc.h"
+
+1486316941 e:\old desktop\projects\abstract-data-structure\ads\include\io\stdout.h
+	"adsprintf.h"
+
+1499858951 e:\old desktop\projects\abstract-data-structure\ads\include\io\adsprintf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"lnlist.h"
+	"common.h"
+	"gpf.h"
+
+1499858768 e:\old desktop\projects\abstract-data-structure\ads\include\io\common.h
+	"../utility.h"
+	<stdbool.h>
+
+1499858856 e:\old desktop\projects\abstract-data-structure\ads\include\io\gpf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"typecode.h"
+	"../utility.h"
+
+1492338554 e:\old desktop\projects\abstract-data-structure\ads\include\io\typecode.h
+
+1500773729 e:\old desktop\projects\abstract-data-structure\ads\include\vector.h
+	"utility.h"
+
+1500753553 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\database.c
+	"../../include/database/dataBase.h"
+
+1499859905 e:\old desktop\projects\abstract-data-structure\ads\include\database\database.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	"sdbdefs.h"
+	"db_tuple.h"
+	"files.h"
+	"table.h"
+	"pairs.h"
+	"strings.h"
+	"parser.h"
+	"../Avl.h"
+	"type2file.h"
+
+1498119686 e:\old desktop\projects\abstract-data-structure\ads\include\database\db_tuple.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<stdarg.h>
+	"../utility.h"
+
+1499858183 e:\old desktop\projects\abstract-data-structure\ads\include\database\files.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	"sdbdefs.h"
+	"type2file.h"
+
+1499859948 e:\old desktop\projects\abstract-data-structure\ads\include\database\sdbdefs.h
+	"db_tuple.h"
+	"../Avl.h"
+
+1499858433 e:\old desktop\projects\abstract-data-structure\ads\include\database\type2file.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	"strings.h"
+	"..\Tuple.h"
+	"..\str.h"
+	"db_tuple.h"
+	"..\io\formatter.h"
+
+1500753540 e:\old desktop\projects\abstract-data-structure\ads\include\database\strings.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	"sdbdefs.h"
+	"files.h"
+	"../Avl.h"
+
+1501524381 e:\old desktop\projects\abstract-data-structure\ads\include\tuple.h
+	"utility.h"
+
+1500753582 e:\old desktop\projects\abstract-data-structure\ads\include\str.h
+	"utility.h"
+	"vector.h"
+	"stringpool.h"
+
+1500160323 e:\old desktop\projects\abstract-data-structure\ads\include\stringpool.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"dict.h"
+
+1498129884 e:\old desktop\projects\abstract-data-structure\ads\include\database\table.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	"dataBase.h"
+	"parser.h"
+	"sdbdefs.h"
+	"db_tuple.h"
+	"type2file.h"
+	"files.h"
+	"../Avl.h"
+	"../list.h"
+
+1497775122 e:\old desktop\projects\abstract-data-structure\ads\include\database\parser.h
+	"../utility.h"
+	"db_tuple.h"
+	"sdbdefs.h"
+	"../str.h"
+
+1501520776 e:\old desktop\projects\abstract-data-structure\ads\include\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1497873336 e:\old desktop\projects\abstract-data-structure\ads\include\database\pairs.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	"dataBase.h"
+	"parser.h"
+	"sdbdefs.h"
+	"db_tuple.h"
+	"type2file.h"
+
+1499858164 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\db_tuple.c
+	"../../include/database/db_tuple.h"
+
+1499858178 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\files.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdarg.h>
+	<string.h>
+	<stdbool.h>
+	"../../include/database/files.h"
+
+1500763855 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\pairs.c
+	"../../include/database/pairs.h"
+
+1500766837 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\parser.c
+	"../../include/database/parser.h"
+
+1499858289 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\sdbdefs.c
+	"../../include/database/sdbdefs.h"
+
+1500763855 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	"../../include/database/strings.h"
+
+1499858816 e:\old desktop\projects\abstract-data-structure\ads\include\io\formatter.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"typecode.h"
+	"common.h"
+	"../utility.h"
+	"lnlist.h"
+
+1500766365 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\table.c
+	"../../include/database/table.h"
+
+1500766837 source:e:\old desktop\projects\abstract-data-structure\ads\src\database\type2file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	"../../include/database/type2file.h"
+
+1500765956 source:e:\old desktop\projects\abstract-data-structure\ads\src\deque.c
+	"../include/deque.h"
+
+1501524593 e:\old desktop\projects\abstract-data-structure\ads\include\deque.h
+	"utility.h"
+	"list.h"
+
+1500766104 source:e:\old desktop\projects\abstract-data-structure\ads\src\dict.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"../include/dict.h"
+
+1500767304 e:\old desktop\projects\abstract-data-structure\ads\include\dict.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"vector.h"
+	"list.h"
+
+1499858502 source:e:\old desktop\projects\abstract-data-structure\ads\src\extrie.c
+	"../include/extrie.h"
+
+1499858500 e:\old desktop\projects\abstract-data-structure\ads\include\extrie.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"str.h"
+	"trie.h"
+
+1500766595 e:\old desktop\projects\abstract-data-structure\ads\include\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1500766684 e:\old desktop\projects\abstract-data-structure\ads\include\trie.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\heap.c
+	"../include/heap.h"
+
+1500068256 e:\old desktop\projects\abstract-data-structure\ads\include\heap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"list.h"
+
+1500158657 source:e:\old desktop\projects\abstract-data-structure\ads\src\integer.c
+	"../include/integer.h"
+
+1492625999 e:\old desktop\projects\abstract-data-structure\ads\include\integer.h
+	"utility.h"
+	<math.h>
+
+1499858691 source:e:\old desktop\projects\abstract-data-structure\ads\src\io\adsprintf.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"../../include/io/adsprintf.h"
+
+1499858749 source:e:\old desktop\projects\abstract-data-structure\ads\src\io\common.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"../../include/io/common.h"
+
+1499858810 source:e:\old desktop\projects\abstract-data-structure\ads\src\io\formatter.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"../../include/io/formatter.h"
+
+1499858852 source:e:\old desktop\projects\abstract-data-structure\ads\src\io\gpf.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"../../include/io/gpf.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\io\lnlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../include/io/lnlist.h"
+
+1499859027 source:e:\old desktop\projects\abstract-data-structure\ads\src\io\stdout.c
+	"../../include/io/adsprintf.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include/list.h"
+
+1499859089 source:e:\old desktop\projects\abstract-data-structure\ads\src\marshal.c
+	"../include/marshal.h"
+
+1497784777 e:\old desktop\projects\abstract-data-structure\ads\include\marshal.h
+	"database/dataBase.h"
+	"database/parser.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include/queue.h"
+
+1500766492 e:\old desktop\projects\abstract-data-structure\ads\include\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1500759571 source:e:\old desktop\projects\abstract-data-structure\ads\src\set.c
+	"../include/set.h"
+
+1500159322 e:\old desktop\projects\abstract-data-structure\ads\include\set.h
+	"utility.h"
+	"list.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include/stack.h"
+
+1500756868 source:e:\old desktop\projects\abstract-data-structure\ads\src\str.c
+	"../include/str.h"
+
+1500161663 source:e:\old desktop\projects\abstract-data-structure\ads\src\stringpool.c
+	"../include/Stringpool.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\trie.c
+	"../include/trie.h"
+
+1500766712 source:e:\old desktop\projects\abstract-data-structure\ads\src\tuple.c
+	"../include/tuple.h"
+
+1500650059 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility.c
+	<stdio.h>
+	"../include/utility.h"
+
+1499859439 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\ads_stream.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"../../include/utility/ads_stream.h"
+
+1499859449 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\c_str.c
+	"../../include/utility/c_str.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\datareplicator.c
+	"../../include/utility/datareplicator.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\error.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"../../include/utility/error.h"
+
+1501522895 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\gc.c
+	"../../include/utility/gc.h"
+
+1471927573 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\io.c
+
+1499859552 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\iterator.c
+	"../../include/utility/iterator.h"
+
+1500229653 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\object.c
+	<assert.h>
+	"../../include/utility/object.h"
+
+1499859590 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\timeit.c
+	<stdio.h>
+	<stdint.h>
+	<time.h>
+	"../../include/utility/timeit.h"
+
+1492158582 e:\old desktop\projects\abstract-data-structure\ads\include\utility\timeit.h
+	<stdint.h>
+	<time.h>
+
+1499859597 source:e:\old desktop\projects\abstract-data-structure\ads\src\utility\types.c
+	"../../include/utility/types.h"
+
+1500817211 source:e:\old desktop\projects\abstract-data-structure\ads\src\vector.c
+	"../include/vector.h"
+
+1501519380 source:e:\old desktop\projects\abstract-data-structure\source\main.c
+	"../Ads/include/vector.h"
+	"../Ads/include/Avl.h"
+	"../Ads/include/list.h"
+	"../Ads/include/Deque.h"
+	"../Ads/include/Dict.h"
+	"../Ads/include/Heap.h"
+	"../Ads/include/Queue.h"
+	"../Ads/include/Stack.h"
+	"../Ads/include/Set.h"
+	"../Ads/include/str.h"
+	"../Ads/include/utility/timeit.h"
+	"../Ads/include/trie.h"
+	"../Ads/include/Extrie.h"
+	"../Ads/include/Tuple.h"
+
+1501523959 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\avl.c
+	"../include/Avl.h"
+
+1501524417 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"vector.h"
+
+1500650097 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility.h
+	"utility\compiler_info.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"utility\error.h"
+	"utility\datareplicator.h"
+	"utility\gc.h"
+	"utility\iterator.h"
+	"utility\defaultargs.h"
+	"utility\object.h"
+	"utility\Types.h"
+	"utility\c_str.h"
+	"utility\ads_stream.h"
+	"io\lnlist.h"
+	"io\stdout.h"
+
+1491401251 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\compiler_info.h
+
+1511859228 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\error.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1500655879 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\datareplicator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"Error.h"
+	"gc.h"
+	"object.h"
+
+1500593716 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\gc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"Error.h"
+	"object.h"
+
+1500753998 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\object.h
+	"GC.h"
+	"Types.h"
+
+1492158503 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\types.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+
+1501519051 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\iterator.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"datareplicator.h"
+
+1474129192 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\defaultargs.h
+
+1492158510 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\c_str.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"ads_stream.h"
+	"datareplicator.h"
+
+1492158513 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\ads_stream.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+
+1500751499 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\io\lnlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../utility/error.h"
+	"../utility/gc.h"
+
+1486316941 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\io\stdout.h
+	"adsprintf.h"
+
+1499858951 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\io\adsprintf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"lnlist.h"
+	"common.h"
+	"gpf.h"
+
+1499858768 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\io\common.h
+	"../utility.h"
+	<stdbool.h>
+
+1499858856 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\io\gpf.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"typecode.h"
+	"../utility.h"
+
+1492338554 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\io\typecode.h
+
+1500773729 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\vector.h
+	"utility.h"
+
+1500765956 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\deque.c
+	"../include/deque.h"
+
+1501524593 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\deque.h
+	"utility.h"
+	"list.h"
+
+1501520776 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1500766104 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\dict.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"../include/dict.h"
+
+1512381913 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\dict.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"vector.h"
+	"list.h"
+
+1499858502 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\extrie.c
+	"../include/extrie.h"
+
+1499858500 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\extrie.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"str.h"
+	"trie.h"
+
+1500766595 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1500753582 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\str.h
+	"utility.h"
+	"vector.h"
+	"stringpool.h"
+
+1500160323 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\stringpool.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+	"dict.h"
+
+1500766684 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\trie.h
+	"utility.h"
+	"list.h"
+	"stack.h"
+
+1501522895 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\heap.c
+	"../include/heap.h"
+
+1500068256 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\heap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"list.h"
+
+1500158657 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\integer.c
+	"../include/integer.h"
+
+1492625999 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\integer.h
+	"utility.h"
+	<math.h>
+
+1499858691 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\io\adsprintf.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"../../include/io/adsprintf.h"
+
+1499858749 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\io\common.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"../../include/io/common.h"
+
+1499858810 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\io\formatter.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"../../include/io/formatter.h"
+
+1499858816 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\io\formatter.h
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	"typecode.h"
+	"common.h"
+	"../utility.h"
+	"lnlist.h"
+
+1512380519 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\io\gpf.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<string.h>
+	"../../include/io/gpf.h"
+
+1501522895 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\io\lnlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../include/io/lnlist.h"
+
+1499859027 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\io\stdout.c
+	"../../include/io/adsprintf.h"
+
+1501522895 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include/list.h"
+
+1501522895 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include/queue.h"
+
+1500766492 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+
+1500759571 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\set.c
+	"../include/set.h"
+
+1500159322 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\set.h
+	"utility.h"
+	"list.h"
+
+1501522895 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../include/stack.h"
+
+1500756868 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\str.c
+	"../include/str.h"
+
+1500161663 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\stringpool.c
+	"../include/Stringpool.h"
+
+1501522895 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\trie.c
+	"../include/trie.h"
+
+1500766712 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\tuple.c
+	"../include/tuple.h"
+
+1501524381 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\tuple.h
+	"utility.h"
+
+1500650059 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility.c
+	<stdio.h>
+	"../include/utility.h"
+
+1499859439 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\ads_stream.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	<stdint.h>
+	"../../include/utility/ads_stream.h"
+
+1499859449 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\c_str.c
+	"../../include/utility/c_str.h"
+
+1512381865 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\datareplicator.c
+	"../../include/utility/datareplicator.h"
+
+1501522895 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\error.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<stdarg.h>
+	<time.h>
+	<stdbool.h>
+	"../../include/utility/error.h"
+
+1501522895 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\gc.c
+	"../../include/utility/gc.h"
+
+1471927573 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\io.c
+
+1499859552 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\iterator.c
+	"../../include/utility/iterator.h"
+
+1500229653 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\object.c
+	<assert.h>
+	"../../include/utility/object.h"
+
+1499859590 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\timeit.c
+	<stdio.h>
+	<stdint.h>
+	<time.h>
+	"../../include/utility/timeit.h"
+
+1492158582 e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\include\utility\timeit.h
+	<stdint.h>
+	<time.h>
+
+1499859597 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\utility\types.c
+	"../../include/utility/types.h"
+
+1500817211 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\ads\src\vector.c
+	"../include/vector.h"
+
+1501519380 source:e:\cloud\onedrive\programming\projects\abstract-data-structure\source\main.c
+	"../Ads/include/vector.h"
+	"../Ads/include/Avl.h"
+	"../Ads/include/list.h"
+	"../Ads/include/Deque.h"
+	"../Ads/include/Dict.h"
+	"../Ads/include/Heap.h"
+	"../Ads/include/Queue.h"
+	"../Ads/include/Stack.h"
+	"../Ads/include/Set.h"
+	"../Ads/include/str.h"
+	"../Ads/include/utility/timeit.h"
+	"../Ads/include/trie.h"
+	"../Ads/include/Extrie.h"
+	"../Ads/include/Tuple.h"
+
