@@ -1,6 +1,6 @@
 Abstract-Data-Structure
 =======================
-A Generic Data Structure Library in C.
+### A Generic Data Structure Library in C.
 
 Abstract Data Structure Library is created to give a solution to generic data structure in C. Everybody is fimiliar with Type-Problem in C i.e. a common task cannot be applied to all datatypes in a single function. Which is of course taken care by c++ through templating and function overloading. 
 
@@ -9,7 +9,7 @@ Generic Programming is the main feature of this library one Data Structure can b
 The Semi-Automatic Garbage Collector and StaticDB is inbuilt with the Ads Library with lots of c++ feature in c. 
 e.g.
 
-Data Structure ADT's (Type Independent) ::
+### Data Structure ADT's (Type Independent) ::
 
 ```c
 ads_vector v = ads_new(ads_vector,int,2);  //creating a new vector.
@@ -21,7 +21,7 @@ ads_vectorGetItem(v,0,int,j); //getting values from vector.
 ads_delete(v); //deleting the vector.
 ```
      
-Foreach loops and Iterators :: 
+### Foreach loops and Iterators :: 
 
 ```c
 // ITERATING OVER EACH VECTOR ITEM.
@@ -31,10 +31,12 @@ ads_foreach(item , ads_vectorIterator(v1) , int)
 }ads_next(item);
 ```
      
-New Style Output Formatting :: 
+### New Style Output Formatting :: 
 
-        ads_printf("printing Vector = %[d] ",v); //printing vectors directly.
-        ads_printf("printing Vector = {[d]} ",v); //new style formatting vectors directly.
+```c
+ads_printf("printing Vector = %[d] ",v); //printing vectors directly.
+ads_printf("printing Vector = {[d]} ",v); //new style formatting vectors directly.
+```
         
 * Object marshalling
 * DataBase Support
