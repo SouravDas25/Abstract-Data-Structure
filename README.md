@@ -11,21 +11,25 @@ e.g.
 
 Data Structure ADT's (Type Independent) ::
 
-       ads_vector v = ads_new(ads_vector,int,2);  //creating a new vector.
-       ads_vectorAppend(v,25,int);  //inserting values to the vector.
-       ads_vectorAppend(v,30,int);  
-       ads_vectorAppend(v,35,int); //reallocation occurred
-       int j;
-       ads_vectorGetItem(v,0,int,j); //getting values from vector.
-       ads_delete(v); //deleting the vector.
+```c
+ads_vector v = ads_new(ads_vector,int,2);  //creating a new vector.
+ads_vectorAppend(v,25,int);  //inserting values to the vector.
+ads_vectorAppend(v,30,int);  
+ads_vectorAppend(v,35,int); //reallocation occurred
+int j;
+ads_vectorGetItem(v,0,int,j); //getting values from vector.
+ads_delete(v); //deleting the vector.
+```
      
 Foreach loops and Iterators :: 
 
-        // ITERATING OVER EACH VECTOR ITEM.
-        ads_foreach(item , ads_vectorIterator(v1) , int)
-        {
-             sum += item;
-        }ads_next(item);
+```c
+// ITERATING OVER EACH VECTOR ITEM.
+ads_foreach(item , ads_vectorIterator(v1) , int)
+{
+       sum += item;
+}ads_next(item);
+```
      
 New Style Output Formatting :: 
 
